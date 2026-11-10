@@ -26,5 +26,5 @@ infra/.terraform.lock.hcl.bak
 !.vscode/extensions.json
 .idea
 .DS_Store
-
+backend/public/
 notes.txt
